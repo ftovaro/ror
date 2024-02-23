@@ -11,7 +11,3 @@ end
 
 
 p "Outside #{Music::Record}"
-
-
-
-
